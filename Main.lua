@@ -61,7 +61,7 @@ text.Center = true
 return text
 end
 
-local lib = loadstring(game:HttpGet(""))()
+local lib = loadstring(game:HttpGet("https://github.com/ruoadhey/BaseBattles-Roblox-/blob/main/UI.lua"))()
 main = lib:Window()
 Mainz = main:Tab('Combat')
 Esp = main:Tab('Visuals')
